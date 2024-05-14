@@ -1,0 +1,5 @@
+les commandes git: 
+
+git add
+git reset 
+git commit 
